@@ -322,7 +322,7 @@ li:hover
     }
     .bg 
     {
-        margin-left: 65px;
+        margin-left: 90px;
         margin-top: 400px;
         opacity: 0.5;
     }
@@ -331,6 +331,8 @@ li:hover
         border: 2px solid #5c8374;
         height: 350px;
         padding: 12px;
+        width: 100%;
+        width: 360px;
         margin: 20px 10px;
         border-radius: 8px;
         margin-top: 245px;
@@ -372,7 +374,7 @@ li:hover
         padding: 5px;
         border: 1px solid white;
         margin: 5px;
-        margin-left: 120px;
+        margin-left: 160px;
         border-radius: 10px;
         background-color: white;  
     }
@@ -401,7 +403,7 @@ li:hover
         font-family: fantasy;
         width: 50%;
         text-align: center;
-        margin-left: 75px;
+        margin-left: 85px;
         margin-top: 20px;
     }
     .bout img
@@ -410,7 +412,7 @@ li:hover
         width: 120px;
         border-radius: 50%;
         margin-top: 15px;
-        margin-left: 90px;
+        margin-left: 115px;
         object-fit: fill;
     }
     .bout .box h2 
