@@ -160,7 +160,7 @@
     }
     video 
     {
-        margin-top: 120px;
+        margin-top: 220px;
         margin-left: 95px;
         border-radius: 8px;
         opacity: 0.8;
@@ -168,4 +168,10 @@
         z-index: -1;
         cursor: not-allowed;
     }
+   div p
+   {
+      text-align: center;
+      margin-top: 60%;
+      opacity: 0.01;
+   }
 }
